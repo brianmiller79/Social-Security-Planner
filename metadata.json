@@ -1,0 +1,5 @@
+{
+  "name": "Social Security Planner",
+  "description": "Calculate your Social Security benefits (PIA, AIME) using historical earnings and future projections. Includes AI-powered analysis.",
+  "requestFramePermissions": []
+}
